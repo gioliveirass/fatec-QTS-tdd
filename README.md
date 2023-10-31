@@ -22,21 +22,27 @@ No presente README, você pode encontrar:
 
 ## Organização do repositório
 
-Os arquivos disponíveis na raiz do projeto são apenas configurações do NODE e do JEST que permitem a execução adequada dos scripts. O desenvolvimento da aplicação em sí se encontra inteiro dentro da pasta `./src`.
+Os arquivos disponíveis na raiz do projeto são apenas configurações do NODE e do JEST que permitem a execução adequada dos scripts. O desenvolvimento da aplicação em sí se encontra inteiro dentro da pasta ./src.
 
-Na pasta `./src` existem três arquivos, sendo eles:
+Na pasta ./src existem três arquivos, sendo eles:
 
-#### main.js
+### main.js
 
-Execução sequêncial das funções localizadas no arquivo `primeWords.js`. Este é o arquivo executado quando o comando `npm start` é inserido no terminal.
+Execução sequêncial das funções localizadas no arquivo primeWords.js. Este é o arquivo executado quando o comando npm start é inserido no terminal.
 
-#### primeWords.js
+![image](https://github.com/gioliveirass/fatec-QTS-tdd/assets/78885451/b6c5f707-0e8f-4af2-af0c-67e94274a294)
 
-Funções localizadas criadas para solucionar o desafio "Palavaras Primas". As funções presentes nesse arquivo são utilizadas tanto no `main.js` quanto no `primeWords.test.js`.
+### primeWords.js
 
-#### primeWords.test.js
+Funções localizadas criadas para solucionar o desafio "Palavaras Primas". As funções presentes nesse arquivo são utilizadas tanto no main.js quanto no primeWords.test.js.
 
-Testes de cada função presente no arquivo `primeWords.js`. Este é o arquivo executado quando o comando `npm test` é inserido no terminal.
+![image](https://github.com/gioliveirass/fatec-QTS-tdd/assets/78885451/ab3ed8d7-c253-456a-a26f-d960d57674cb)
+
+### primeWords.test.js
+
+Testes de cada função presente no arquivo primeWords.js. Este é o arquivo executado quando o comando npm test é inserido no terminal.
+
+![image](https://github.com/gioliveirass/fatec-QTS-tdd/assets/78885451/18a5ee21-6c3b-46a0-9ca9-d936af431602)
 
 ## Tutorial: Execução do projeto localmente
 
@@ -75,3 +81,11 @@ Após clonar o projeto em sua máquina, acessar o diretório local e instalar as
 ## Resultados de execução
 
 A seguir, é possível vizualizar os resultados obtidos durante a execução do projeto e dos testes unitários:
+
+### Resultados da execução do projeto
+
+![image](https://github.com/gioliveirass/fatec-QTS-tdd/assets/78885451/2faafdd8-73fe-48dd-a9b1-e08107ac8adf)
+
+### Resultados da execução dos testes unitários
+
+![image](https://github.com/gioliveirass/fatec-QTS-tdd/assets/78885451/4646794f-8ed4-4daf-a181-cd0e6a935127)
