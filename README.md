@@ -8,11 +8,11 @@ Atividade desenvolvida durante a aula de Qualidade e Testes de Software da FATEC
 
 No presente README, você pode encontrar:
 
-- [Tecnologias utilizadas no projeto](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#tecnologias-utilizadas);
-- [Organização do repositório](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#organiza%C3%A7%C3%A3o-do-reposit%C3%B3rio);
-- [Tutorial de execução do projeto localmente](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#tutorial-execu%C3%A7%C3%A3o-do-projeto-localmente);
-- [Tutorial de execução dos testes unitários](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#tutorial-execu%C3%A7%C3%A3o-dos-testes-unit%C3%A1rios);
-- [Resultados obtidos durante a execução do projeto e dos testes unitários](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#tutorial-execu%C3%A7%C3%A3o-dos-testes-unit%C3%A1rios).
+- Tecnologias utilizadas no projeto;
+- Organização do repositório;
+- Tutorial de execução do projeto localmente;
+- Tutorial de execução dos testes unitários;
+- Resultados obtidos durante a execução do projeto e dos testes unitários.
 
 ## 📌 Tecnologias utilizadas
 
