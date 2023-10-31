@@ -1,0 +1,31 @@
+{
+  "name": "fatec-qts-tdd",
+  "version": "1.0.0",
+  "description": "Atividade desenvolvida durante a aula de Qualidade e Testes de Software da FATEC.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gioliveirass/fatec-QTS-tdd.git"
+  },
+  "keywords": [
+    "tdd",
+    "javascript",
+    "jest",
+    "test"
+  ],
+  "author": "Giovana O. Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gioliveirass/fatec-QTS-tdd/issues"
+  },
+  "homepage": "https://github.com/gioliveirass/fatec-QTS-tdd#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.23.0",
+    "jest": "^29.7.0"
+  }
+}
