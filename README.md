@@ -4,23 +4,23 @@ Atividade desenvolvida durante a aula de Qualidade e Testes de Software da FATEC
 
 [O deafio escolhido foi o "Palavras Primas", e você pode acessar seu enunciado no site DojoPuzzle clicando aqui.](https://dojopuzzles.com/problems/palavras-primas/)
 
-## Sumário
+## 📌 Sumário
 
 No presente README, você pode encontrar:
 
-- Tecnologias utilizadas no projeto;
-- Organização do repositório;
-- Tutorial de execução do projeto localmente;
-- Tutorial de execução dos testes unitários;
-- Resultados obtidos durante a execução do projeto e dos testes unitários.
+- [Tecnologias utilizadas no projeto](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#tecnologias-utilizadas);
+- [Organização do repositório](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#organiza%C3%A7%C3%A3o-do-reposit%C3%B3rio);
+- [Tutorial de execução do projeto localmente](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#tutorial-execu%C3%A7%C3%A3o-do-projeto-localmente);
+- [Tutorial de execução dos testes unitários](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#tutorial-execu%C3%A7%C3%A3o-dos-testes-unit%C3%A1rios);
+- [Resultados obtidos durante a execução do projeto e dos testes unitários](https://github.com/gioliveirass/fatec-QTS-tdd/tree/main#tutorial-execu%C3%A7%C3%A3o-dos-testes-unit%C3%A1rios).
 
-## Tecnologias utilizadas
+## 📌 Tecnologias utilizadas
 
 - Node;
 - JavaScript;
 - Jest.
 
-## Organização do repositório
+## 📌 Organização do repositório
 
 Os arquivos disponíveis na raiz do projeto são apenas configurações do NODE e do JEST que permitem a execução adequada dos scripts. O desenvolvimento da aplicação em sí se encontra inteiro dentro da pasta ./src.
 
@@ -44,7 +44,7 @@ Testes de cada função presente no arquivo primeWords.js. Este é o arquivo exe
 
 ![image](https://github.com/gioliveirass/fatec-QTS-tdd/assets/78885451/18a5ee21-6c3b-46a0-9ca9-d936af431602)
 
-## Tutorial: Execução do projeto localmente
+## 📌 Tutorial: Execução do projeto localmente
 
 Primeiro, clone o projeto na sua máquina:
 
@@ -70,7 +70,7 @@ Por fim, inicialize o projeto:
   npm start
 ```
 
-## Tutorial: Execução dos testes unitários
+## 📌 Tutorial: Execução dos testes unitários
 
 Após clonar o projeto em sua máquina, acessar o diretório local e instalar as dependências, execute o comando a seguir:
 
@@ -78,7 +78,7 @@ Após clonar o projeto em sua máquina, acessar o diretório local e instalar as
   npm test
 ```
 
-## Resultados de execução
+## 📌 Resultados de execução
 
 A seguir, é possível vizualizar os resultados obtidos durante a execução do projeto e dos testes unitários:
 
